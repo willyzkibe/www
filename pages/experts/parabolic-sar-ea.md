@@ -16,4 +16,4 @@ The <t>Parabolic SAR (parabolic stop and reverse)</t> indicator was devised by J
 
 ## The trading logic of this forex robot
 
-The <t>Parabolic SAR EA</t> is a forex robot which uses the <t>P-SAR</t> support and resistance levels to open a trading position. A buy signal is generated if the price breaks through the resistance level and a sell signal is generated if the price beaks through the support level.
+The <t>Parabolic SAR EA</t> is a forex robot which uses the <t>P-SAR</t> support and resistance levels to open a trading position. A buy signal is generated if the price breaks through the resistance level and a sell signal is generated if the price breaks through the support level.
