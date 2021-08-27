@@ -7,6 +7,8 @@ subtitle: Download and use your first Trading Robots in 3 simple steps.
     .column-image {
         display:flex;    
         justify-content: space-evenly;
+        padding-top: 2em;
+        padding-bottom: 2em;
     }
     .column-image.column-image-left {
         flex-direction: row-reverse;
