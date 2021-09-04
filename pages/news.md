@@ -1,13 +1,10 @@
 ---
 title: News
+layout: small
 ---
 
 <style>
-  #wrapper {
-		max-width: 500px;
-		margin: 0 auto;
-	}
-	h2:not(:first-child) {
+	#wrapper h2:not(:first-child) {
 		border-top: 1px #6d51b120 solid;
     padding-top: 16px;
 	}
